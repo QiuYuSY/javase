@@ -16,6 +16,6 @@ public class Main {
             return;
         }
         System.out.println("oJ Group Great Again!");
-        System.out.println("github test again");
+
     }
 }
